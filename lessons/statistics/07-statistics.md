@@ -89,7 +89,6 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 >> P(A|B) = P(A) * P(B|A)/P(B)
 >> P(A) = Identical Twin
 >> P(B) = Twin Boys
-
 >> P(Identical | Twin Boys) = P(Identical & Twin boys) / (P(Identical & Twin boys) + P(Fraternal & Twin boys))
 >> P(Identical | Twin Boys) = (1/300) * (1/2) / ((1/300) * (1/2) + (1/125) * (1/4))
 >> P(Identical | Twin Boys) = 5/11
@@ -98,7 +97,9 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Frequentist Statistics - Probabilities of events do not change, they follow the same expected frequency given a population.
+>>
+>> Bayesian Statistics - Probabilities are modeled based on levels of certainty and can change as more information is learned.
 
 ---
 
